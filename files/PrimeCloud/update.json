@@ -1,0 +1,8 @@
+{ 
+ "packageManager": "github", 
+ "name": "PrimeCloud", 
+ "repo": "PrimeCyber/PrimeCloud", 
+ "files": { 
+ "include": ["prime-cloud.js", "prime-cloud.min.js", "prime-cloud.min.js.map"] 
+} 
+}
